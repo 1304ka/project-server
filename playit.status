@@ -2161,3 +2161,12 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAu8JQAAAZIbV1iIAAA
 
 TUNNELS
 google-spotlight.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1727035565189 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAu8JQAAAZIbV1iIAAAAAQAAAAEAAAAAAAAAAP0oBgfZAOaTwk_K_lbAM1OdiALXC76tHRTuxAAXA5ke
+
+TUNNELS
+google-spotlight.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
